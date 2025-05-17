@@ -70,6 +70,12 @@ $$
 czyli zbieżność jednostajna zachodzi na każdym takim przedziale.
 Podsumowanie
 
-Punktowo: $f_{n}(x)\to 3x$ dla $x\in[0,1)$ oraz $f_{n}(1)=4$, więc funkcja graniczna wynosi $$ f(x)= \begin{cases} 3x,& x\in[0,1),   4,& x=1. \end{cases} $$
+Punktowo: 
+
+$f_{n}(x)\to 3x$ dla $x\in[0,1)$ oraz $f_{n}(1)=4$, więc funkcja graniczna wynosi 
+
+$$ f(x)= \begin{cases} 3x,& x\in[0,1),   4,& x=1. \end{cases} $$
+
+
     Jednostajnie: ciąg nie zbiega jednostajnie na $[0,1]$, lecz jednostajnie na każdym przedziale $[0,a]$, gdzie $a<1$.
 
